@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    text-align: center;
+    margin: 0px 50px;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+
+.jumbotron{
+    border-radius: 5px;
+    padding:20px;
+}
+
+
+img{
+    max-width:90%;
+}
+.btn{
+margin-top: 20px;
+}
+
+
